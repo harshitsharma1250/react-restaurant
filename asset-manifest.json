@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-restaurant/static/css/main.060c59bb.css",
+    "main.js": "/react-restaurant/static/js/main.ac43b334.js",
+    "static/js/787.97a945da.chunk.js": "/react-restaurant/static/js/787.97a945da.chunk.js",
+    "static/media/margherita.jpg": "/react-restaurant/static/media/margherita.0ac0172368a6e708210b.jpg",
+    "static/media/pepperoni.jpg": "/react-restaurant/static/media/pepperoni.11895e523058dc2488bf.jpg",
+    "static/media/pizzalogo.jpg": "/react-restaurant/static/media/pizzalogo.08902b78abbf9435f912.jpg",
+    "static/media/expensive.jpg": "/react-restaurant/static/media/expensive.42c616a5d2ca45c02730.jpg",
+    "static/media/multiplepizza.jpg": "/react-restaurant/static/media/multiplepizza.590a78f4230353b2a4f2.jpg",
+    "static/media/vegan.jpg": "/react-restaurant/static/media/vegan.521ea7a56fdaccc226f4.jpg",
+    "static/media/special.jpg": "/react-restaurant/static/media/special.f05dbcfc5edaa89230a1.jpg",
+    "static/media/pineapple.jpg": "/react-restaurant/static/media/pineapple.e3c95cd64e09f4d994c1.jpg",
+    "static/media/pizza2.jpg": "/react-restaurant/static/media/pizza2.3d4ff59a054af01e6dd8.jpg",
+    "index.html": "/react-restaurant/index.html",
+    "main.060c59bb.css.map": "/react-restaurant/static/css/main.060c59bb.css.map",
+    "main.ac43b334.js.map": "/react-restaurant/static/js/main.ac43b334.js.map",
+    "787.97a945da.chunk.js.map": "/react-restaurant/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.060c59bb.css",
+    "static/js/main.ac43b334.js"
+  ]
+}
